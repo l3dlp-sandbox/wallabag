@@ -5626,16 +5626,16 @@
         },
         {
             "name": "nelmio/api-doc-bundle",
-            "version": "v4.32.0",
+            "version": "v4.32.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nelmio/NelmioApiDocBundle.git",
-                "reference": "6ea702702ffb3382e9fd9776c868ff7386dbc772"
+                "reference": "9587aa743bb71314e9648c6ae92eab5296ba6ef2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nelmio/NelmioApiDocBundle/zipball/6ea702702ffb3382e9fd9776c868ff7386dbc772",
-                "reference": "6ea702702ffb3382e9fd9776c868ff7386dbc772",
+                "url": "https://api.github.com/repos/nelmio/NelmioApiDocBundle/zipball/9587aa743bb71314e9648c6ae92eab5296ba6ef2",
+                "reference": "9587aa743bb71314e9648c6ae92eab5296ba6ef2",
                 "shasum": ""
             },
             "require": {
@@ -5736,7 +5736,7 @@
             ],
             "support": {
                 "issues": "https://github.com/nelmio/NelmioApiDocBundle/issues",
-                "source": "https://github.com/nelmio/NelmioApiDocBundle/tree/v4.32.0"
+                "source": "https://github.com/nelmio/NelmioApiDocBundle/tree/v4.32.2"
             },
             "funding": [
                 {
@@ -5744,7 +5744,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-09-30T13:06:21+00:00"
+            "time": "2024-10-17T22:14:28+00:00"
         },
         {
             "name": "nelmio/cors-bundle",
@@ -6148,16 +6148,16 @@
         },
         {
             "name": "php-amqplib/rabbitmq-bundle",
-            "version": "2.16.0",
+            "version": "2.17.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-amqplib/RabbitMqBundle.git",
-                "reference": "8c18f6db79b59de88e57bd805192a98e48076c41"
+                "reference": "242f2ed2eded0519e7c5001b7ea4871f347df2fc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-amqplib/RabbitMqBundle/zipball/8c18f6db79b59de88e57bd805192a98e48076c41",
-                "reference": "8c18f6db79b59de88e57bd805192a98e48076c41",
+                "url": "https://api.github.com/repos/php-amqplib/RabbitMqBundle/zipball/242f2ed2eded0519e7c5001b7ea4871f347df2fc",
+                "reference": "242f2ed2eded0519e7c5001b7ea4871f347df2fc",
                 "shasum": ""
             },
             "require": {
@@ -6221,9 +6221,9 @@
             ],
             "support": {
                 "issues": "https://github.com/php-amqplib/RabbitMqBundle/issues",
-                "source": "https://github.com/php-amqplib/RabbitMqBundle/tree/2.16.0"
+                "source": "https://github.com/php-amqplib/RabbitMqBundle/tree/2.17.0"
             },
-            "time": "2024-03-25T12:12:05+00:00"
+            "time": "2024-10-17T18:44:36+00:00"
         },
         {
             "name": "php-http/client-common",
@@ -7072,16 +7072,16 @@
         },
         {
             "name": "phpseclib/phpseclib",
-            "version": "3.0.41",
+            "version": "3.0.42",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpseclib/phpseclib.git",
-                "reference": "621c73f7dcb310b61de34d1da4c4204e8ace6ceb"
+                "reference": "db92f1b1987b12b13f248fe76c3a52cadb67bb98"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpseclib/phpseclib/zipball/621c73f7dcb310b61de34d1da4c4204e8ace6ceb",
-                "reference": "621c73f7dcb310b61de34d1da4c4204e8ace6ceb",
+                "url": "https://api.github.com/repos/phpseclib/phpseclib/zipball/db92f1b1987b12b13f248fe76c3a52cadb67bb98",
+                "reference": "db92f1b1987b12b13f248fe76c3a52cadb67bb98",
                 "shasum": ""
             },
             "require": {
@@ -7162,7 +7162,7 @@
             ],
             "support": {
                 "issues": "https://github.com/phpseclib/phpseclib/issues",
-                "source": "https://github.com/phpseclib/phpseclib/tree/3.0.41"
+                "source": "https://github.com/phpseclib/phpseclib/tree/3.0.42"
             },
             "funding": [
                 {
@@ -7178,20 +7178,20 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-08-12T00:13:54+00:00"
+            "time": "2024-09-16T03:06:04+00:00"
         },
         {
             "name": "phpstan/phpdoc-parser",
-            "version": "1.32.0",
+            "version": "1.33.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpdoc-parser.git",
-                "reference": "6ca22b154efdd9e3c68c56f5d94670920a1c19a4"
+                "reference": "82a311fd3690fb2bf7b64d5c98f912b3dd746140"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpdoc-parser/zipball/6ca22b154efdd9e3c68c56f5d94670920a1c19a4",
-                "reference": "6ca22b154efdd9e3c68c56f5d94670920a1c19a4",
+                "url": "https://api.github.com/repos/phpstan/phpdoc-parser/zipball/82a311fd3690fb2bf7b64d5c98f912b3dd746140",
+                "reference": "82a311fd3690fb2bf7b64d5c98f912b3dd746140",
                 "shasum": ""
             },
             "require": {
@@ -7223,9 +7223,9 @@
             "description": "PHPDoc parser with support for nullable, intersection and generic types",
             "support": {
                 "issues": "https://github.com/phpstan/phpdoc-parser/issues",
-                "source": "https://github.com/phpstan/phpdoc-parser/tree/1.32.0"
+                "source": "https://github.com/phpstan/phpdoc-parser/tree/1.33.0"
             },
-            "time": "2024-09-26T07:23:32+00:00"
+            "time": "2024-10-13T11:25:22+00:00"
         },
         {
             "name": "phpzip/phpzip",
@@ -14324,16 +14324,16 @@
         },
         {
             "name": "tecnickcom/tcpdf",
-            "version": "6.7.5",
+            "version": "6.7.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tecnickcom/TCPDF.git",
-                "reference": "951eabf0338ec2522bd0d5d9c79b08a3a3d36b36"
+                "reference": "4cf1ab192e87e6916d20f93077b2bdfa96a2f848"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tecnickcom/TCPDF/zipball/951eabf0338ec2522bd0d5d9c79b08a3a3d36b36",
-                "reference": "951eabf0338ec2522bd0d5d9c79b08a3a3d36b36",
+                "url": "https://api.github.com/repos/tecnickcom/TCPDF/zipball/4cf1ab192e87e6916d20f93077b2bdfa96a2f848",
+                "reference": "4cf1ab192e87e6916d20f93077b2bdfa96a2f848",
                 "shasum": ""
             },
             "require": {
@@ -14384,7 +14384,7 @@
             ],
             "support": {
                 "issues": "https://github.com/tecnickcom/TCPDF/issues",
-                "source": "https://github.com/tecnickcom/TCPDF/tree/6.7.5"
+                "source": "https://github.com/tecnickcom/TCPDF/tree/6.7.6"
             },
             "funding": [
                 {
@@ -14392,7 +14392,7 @@
                     "type": "custom"
                 }
             ],
-            "time": "2024-04-20T17:25:10+00:00"
+            "time": "2024-10-06T10:54:28+00:00"
         },
         {
             "name": "thecodingmachine/safe",
@@ -15376,16 +15376,16 @@
         },
         {
             "name": "zircote/swagger-php",
-            "version": "4.10.6",
+            "version": "4.11.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/zircote/swagger-php.git",
-                "reference": "e462ff5269ea0ec91070edd5d51dc7215bdea3b6"
+                "reference": "3b6f3800f4fd6544ada4dce180c6b69eaead7c7c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zircote/swagger-php/zipball/e462ff5269ea0ec91070edd5d51dc7215bdea3b6",
-                "reference": "e462ff5269ea0ec91070edd5d51dc7215bdea3b6",
+                "url": "https://api.github.com/repos/zircote/swagger-php/zipball/3b6f3800f4fd6544ada4dce180c6b69eaead7c7c",
+                "reference": "3b6f3800f4fd6544ada4dce180c6b69eaead7c7c",
                 "shasum": ""
             },
             "require": {
@@ -15399,7 +15399,7 @@
             "require-dev": {
                 "composer/package-versions-deprecated": "^1.11",
                 "doctrine/annotations": "^1.7 || ^2.0",
-                "friendsofphp/php-cs-fixer": "^2.17 || ^3.47.1",
+                "friendsofphp/php-cs-fixer": "^2.17 || 3.62.0",
                 "phpstan/phpstan": "^1.6",
                 "phpunit/phpunit": ">=8",
                 "vimeo/psalm": "^4.23"
@@ -15451,9 +15451,9 @@
             ],
             "support": {
                 "issues": "https://github.com/zircote/swagger-php/issues",
-                "source": "https://github.com/zircote/swagger-php/tree/4.10.6"
+                "source": "https://github.com/zircote/swagger-php/tree/4.11.0"
             },
-            "time": "2024-07-26T03:04:43+00:00"
+            "time": "2024-10-09T03:11:12+00:00"
         }
     ],
     "packages-dev": [
